@@ -15,3 +15,6 @@ Luego, descargue el archivo comprimido (FluidSynth 2.5.0)[https://github.com/Flu
 - libfluidsynth-3.dll
 
 Con esto queda funcional el notebook `Microproyecto1.ipynb`.
+
+Archivo soundfont
+- Descarguelo de (Soundfont)[https://member.keymusician.com/Member/FluidR3_GM/index.html] y ubiquelo en la carpeta `soundfonts` de este proyecto.
