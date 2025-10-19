@@ -29,7 +29,7 @@ sudo apt-get install fluid-soundfont-gm
 ```
 
 #### Para usuarios de **Linux (Coursera)**:
-Se debe compilar este archivo `fluidsynth_local.zip` en un sistema operativo Linux, en este caso se uso Ubuntu 24.04:
+Se debe compilar este archivo `fluidsynth_local.zip` en un sistema operativo Linux, en este caso se usó Ubuntu 24.04:
 ```
 git clone https://github.com/FluidSynth/fluidsynth.git
 cd fluidsynth
